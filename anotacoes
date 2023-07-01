@@ -1,0 +1,23 @@
+Para abrir Idle
+- Abrir terminal, digitar Idle
+
+Instalar GIT - pacman -S git
+
+Instalar Pycharm - https://software.manjaro.org/package/pycharm-community-edition
+
+Instalação Git - https://git-scm.com/download/linux
+
+pacman -S git
+
+git config --global user.email edubittelbrum@gmail.com
+
+Ordem de predecência:
+
+1 - ()
+2 - ** (potência)
+3 - 
+
+* - multiplicação
+/ - divisão
+// - divisão de inteiros
+% - resto da divisão
